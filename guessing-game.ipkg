@@ -1,0 +1,7 @@
+package guessing-game
+
+sourcedir = src
+modules = Main
+executable = "main"
+main = Main
+pkgs = effects
